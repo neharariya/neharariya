@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Neha
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Data structure and algorithm(C++)
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Data structure and algorithm(C++) and Web development.
 
 <!---
 neharariya/neharariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
